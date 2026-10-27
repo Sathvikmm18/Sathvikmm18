@@ -1,6 +1,44 @@
-## Hii ,I'm Sathvik M M
-Information science Engineering at AMC Bengaluru 
-## Cyber Security and DevSecOps Enthusiast
+
+## Hi 👋, I'm Sathvik M M
+
+🎓 Information Science & Engineering Graduate from AMC Engineering College, Bengaluru
+
+☁️ **DevOps | Cloud Computing | DevSecOps | Cybersecurity**
+
+🚀 Passionate about building scalable cloud infrastructure, automating deployments, implementing CI/CD pipelines, and integrating security throughout the software development lifecycle.
+
+### 🛠️ Tech Stack & Interests
+
+- ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM)
+- 🐳 **Containerization:** Docker
+- ☸️ **Orchestration:** Kubernetes
+- ⚙️ **CI/CD & Automation:** Git, GitHub Actions, Jenkins
+- 🏗️ **Infrastructure as Code:** Terraform
+- 📊 **Monitoring & Observability:** Prometheus, Grafana
+- 🔐 **DevSecOps & Security:** SonarQube, Trivy, Vulnerability Assessment
+- 💻 **Programming & Scripting:** Python, Bash
+- 🌐 **Web Technologies:** HTML, CSS, JavaScript, React.js
+
+### 🎯 Career Focus
+
+Building secure, automated, scalable, and resilient cloud-native systems by combining DevOps automation, cloud engineering, and security best practices.
+
+### 🌱 Currently Learning
+
+- Advanced Kubernetes and container security
+- Cloud infrastructure automation with Terraform
+- Secure CI/CD pipeline implementation
+- Cloud-native monitoring and observability
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Sathvikmm18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-m-m-a0185332b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?logo=vercel&logoColor=white)](https://sathvik-portfolio-azure.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikmm18@gmail.com)
+
+💡 **From Code to Cloud — Automating, Securing, Monitoring, and Innovating.**
+
 
  
 ## 🌐 Socials:
